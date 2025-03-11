@@ -6,8 +6,8 @@
 
 #define REPORTING_PERIOD_MS 500
 
-const char* ssid = "Galaxy A125FFD";  // WiFi SSID
-const char* password = "sheetal2721";  // WiFi Password
+const char* ssid = "<wifi name>";  // WiFi SSID
+const char* password = "<wifi password>";  // WiFi Password
 
 PulseOximeter pox;
 ESP8266WebServer server(80);
